@@ -13,3 +13,6 @@ In this project,
 While it wasn't a high-tech endeavor, it was incredibly fun and insightful! 🚀
 
 𝙻𝙸𝙺𝙴 𝙵𝙾𝙻𝙻𝙾𝚆 & 𝚂𝙷𝙰𝚁𝙴...
+
+https://github.com/krakken190/Emotion_Predictor_model/assets/72223902/445aab61-d4b9-45eb-8d78-096bcb98af68
+
